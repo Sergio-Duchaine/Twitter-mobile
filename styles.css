@@ -39,7 +39,7 @@
    
 }
 .bottom{
-    width:90vw;
+    width:100vw;
     height: 10vh;
     display:flex ;
     flex-direction: row;
@@ -219,4 +219,7 @@
     width:25px;
     font-size:x-large;
     color:blue;
+}
+.material-symbols-outlined{
+    padding: 2%;
 }
